@@ -185,6 +185,10 @@ function App() {
               </li>
               <li className="neu-list-item">
                 <strong>Data Deletion:</strong> You can delete your account by contacting us. Deleting your account will remove your personal data from our systems.
+                <br />
+                <span>
+                  We retain your personal data as long as your account is active. If you delete your account, we will take steps to delete your personal information. Data within a group (like expenses and comments) is retained as long as the group exists, as it is essential for the functionality of other members in that group.
+                </span>
               </li>
               <li className="neu-list-item">
                 <strong>Push Notifications:</strong> You can disable push notifications at any time through your device's settings.
